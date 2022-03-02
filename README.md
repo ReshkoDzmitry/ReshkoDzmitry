@@ -2,7 +2,7 @@
 
 #### I am React Frontend Developer
 
- <p align="left"><img src="https://c.tenor.com/C8P33kSXp0wAAAAC/meow-metro-goldwyn-mayer.gif" width="100" height="100" alt="kitten with paws"/></p>
+ <p align="left"><img src="https://c.tenor.com/C8P33kSXp0wAAAAC/meow-metro-goldwyn-mayer.gif" width="100" height="150" alt="kitten with paws"/></p>
 
 ### Skills:
 
