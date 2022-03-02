@@ -2,7 +2,7 @@
 
 #### I am React Frontend Developer
 
- <p align="left"><img src="https://i.gifer.com/QQwC.gif" width="100" height="100" alt="kitten with paws"/></p>
+ <p align="left"><img src="https://i.gifer.com/QQwC.mp4" width="100" height="100" alt="kitten with paws"/></p>
 
 ### Skills:
 
