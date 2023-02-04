@@ -26,6 +26,5 @@
 
 [![Telegram](https://img.shields.io/badge/-telegram-00A8E6?style=for-the-badge&logo=telegram)](https://t.me/DzmitryReshko)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dzmitry-reshko-3a0004231/)
-[![Vkontakte](https://img.shields.io/badge/-vkontakte-0076FE?style=for-the-badge&logo=vk)](https://vk.com/dzmitry_reshko)
 
 
